@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+label{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:14px;
+	margin-bottom:5px;
+	margin-right: 20px;
+	max-width:100%;
+	display: inline-block;
+	width: 140px;
+	text-align: right;
+}
+.column{
+	display:inline-block;
+	text-align: left;
+}
+.required{
+	color: red;
+	font-family: "HelveticaNeueW01-55Roma","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+	font-size: 14px;
+}
+.erreur{
+	color: red;
+}

@@ -1,0 +1,168 @@
+.displayed{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+#center{
+width: 100%;
+position:relative;
+/ border-left:1px solid white;
+display:inline-block;
+}
+
+#content{
+padding:18px 12px 50px 21px;
+float:left
+}
+#content p{
+padding:3px 0 0 5px;
+margin:0px;
+}
+.pad25{
+padding-top:25px;
+}
+.stuff{
+margin:25px 0 0 0;
+float:left;
+}
+.item{
+width:270px;
+float:left;
+margin:0 0 15px 0
+}
+.item img{
+float:left;
+}
+.name{
+font-family:Tahoma;
+font-size:12px;
+color:#4A4A4A;
+text-decoration:underline;
+font-weight:bold;
+margin:15px 0 0 5px;
+float:left;
+}
+.item span{
+color:#E27C0E;
+font-weight:bold;
+font-size:12px;
+display:block;
+width:140px;
+float:left;
+padding:7px 0 12px 5px
+}
+.name:visited, .reg:visited, .more:visited{text-decoration:underline}
+.name:hover, .reg:hover, .more:hover{text-decoration:none}
+
+.line{
+display:block;
+float:left;
+line-height:19px;
+padding:5px 0 0 0;
+margin:0px;
+}
+
+.center{
+width:218px;
+text-align:center
+}
+
+#about{
+width:517px;
+padding:0 0 0 5px;
+float:left;
+margin:-10px 0 0 0;
+}
+.tree{
+width:100%;
+height:20px;
+border-bottom:1px solid #BABABA;
+padding:0 0 3px 0;
+}
+.tree a{
+color:#4A4A4A;
+text-decoration:underline
+}
+.tree a:visited{text-decoration:underline}
+.tree a:hover{text-decoration:none}
+.photos{
+width:227px;
+float:left;
+padding:25px 17px 0 0
+}
+.moreph{
+display:block;
+background-image:url(images/morebg.gif);
+background-position:top left;
+background-repeat:no-repeat;
+width:92px;
+line-height:17px;
+color:#FFF;
+text-decoration:none;
+padding:0 0 0 14px;
+margin:0 0 20px 18px
+}
+.comments{
+background-image:url(images/bulb.jpg);
+background-position:top left;
+background-repeat:no-repeat;
+padding:0 0 5px 29px;
+margin:0 0 0 18px;
+color:#0283DD;
+line-height:25px;
+text-decoration:underline
+}
+.comments:visited{text-decoration:underline}
+.comments:hover{text-decoration:none}
+.description{
+width:253px;
+float:left;
+padding:25px 0 0 17px;
+position:relative
+}
+#about .description p{
+padding:0 0 15px 0;
+}
+.description u{
+font-size:12px;
+color:#4A4A4A;
+font-weight:bold
+}
+.price{
+position:absolute;
+top:28px;
+right:0px;
+color:#E27C0E;
+font-size:12px;
+font-weight:bold
+}
+#features li{
+list-style-type:none;
+line-height:17px;
+padding:0 0 0 7px;
+width:180px;
+}
+#features span{
+width:150px;
+display:block;
+float:left;
+}
+#about button{
+background-image:url(images/add.gif);
+background-position:top left;
+background-repeat:no-repeat;
+border:0px;
+float:left;
+font-weight:bold;
+width:104px;
+font-family:Tahoma;
+font-size:11px;
+color:#5B5B5B;
+margin:21px 3px 0 0;
+padding:4px 0 6px 0 
+}
+.carts{
+padding:21px 0 0 0;
+float:left
+}

@@ -1,0 +1,10 @@
+# Local server
+server:
+  # port is used by spring-boot-admi
+  port: 8080
+  contextPath: /webshop
+spring:
+  datasource:
+    password: truc
+    url: jdbc:mysql://192.168.1.60:3306/webshop?user=jenn
+    
